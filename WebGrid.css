@@ -1,0 +1,65 @@
+body {
+    background: #f7f3de url("images/ui-bg_fine-grain_15_f7f3de_60x60.png") 50% 50% repeat;
+}
+
+.webgrid-tableStyle {
+    font: italic 11px Verdana;
+    width: 100%;
+    display: grid;
+    border-collapse: separate;
+    border: solid 1px #98BF21;
+    background: #f8f7f6 url("images/ui-bg_fine-grain_10_f8f7f6_60x60.png") 50% 50% repeat;
+    padding: 5px 5px 5px 5px;
+    text-align: center;
+    border-radius:10px;
+}
+
+.webgrid-headerStyle th {
+    width: 250px;    
+    background: #c67f1c url("images/ui-bg_fine-grain_10_eceadf_60x60.png") 50% 50% repeat;
+    color: #FFFFFF !important;
+    font: 900 14px Verdana !important;
+    padding: 5px 5px 5px 5px;
+    text-align: center;
+    height:50px;
+}
+
+.ActionsTH {    
+    background: #eceadf url("images/ui-bg_fine-grain_10_eceadf_60x60.png") 50% 50% repeat;
+    color: #FFFFFF !important;
+    font: 900 14px Verdana !important;
+    padding: 5px 5px 5px 5px;
+    text-align: center;
+    width: 180px;
+}
+
+.webgrid-footerStyle, .webgrid-footerStyle a {
+    background-color: #c67f1c;
+    color: #FFF;
+    font: 900 14px Verdana;
+    padding: 3px 3px 3px 3px;
+    height:50px;
+}
+
+.webgrid-alternatingRowStyle {
+    background-color: #eceadf;
+    padding: 5px 5px 5px 5px;
+}
+
+.title-column {
+    font: 900 13px Verdana;
+    text-align: center;
+}
+
+.webgrid-img {
+    width: 150px;
+    height: 150px;
+}
+
+.webgrid-tableStyle a {
+    text-decoration: none;
+    color: #808080;
+}
+select {
+      width: 200px;
+    }
