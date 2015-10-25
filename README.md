@@ -21,19 +21,27 @@ http://themvcclub.blogspot.com/2015/10/mvc-ajax-webgrid-with-administrator-butto
 
  The following are snapshots of the WebGrid, in the case of an Administrator, and in case of a regular User :
 
-Administrator :
+
 <a href="http://themvcclub.blogspot.com/2015/10/mvc-ajax-webgrid-with-administrator-buttons.html" imageanchor="1" target="_self" style="margin-left: 1em; margin-right: 1em;">
+
+Administrator :
+
+<img alt="MVC Ajax WebGrid with Administrator Buttons" border="0" height="448" src="http://2.bp.blogspot.com/-wV03d-u_NMs/ViygkoaPYGI/AAAAAAAALrE/c2ft825d86M/s640/3.png" width="540" />
 
 
 Regular User:
-<img alt="MVC Ajax WebGrid with Administrator Buttons" border="0" height="448" src="http://2.bp.blogspot.com/-wV03d-u_NMs/ViygkoaPYGI/AAAAAAAALrE/c2ft825d86M/s640/3.png" width="540" />
+
 
 <img alt="MVC Ajax WebGrid with Administrator Buttons" border="0" height="384" src="http://1.bp.blogspot.com/-O-jNqru-gsk/ViyglDjwyiI/AAAAAAAALrI/0qMgZ-FW6q0/s640/4.png" width="540" />
 
 Administrator :
+
+
 <img alt="MVC Ajax WebGrid with Administrator Buttons" border="0" height="640" src="http://3.bp.blogspot.com/-ThXe8rYxVdI/ViyhAa-cn-I/AAAAAAAALrc/3YMLeLt9pxU/s640/2.png" width="398" />
 
 Regular User:
+
+
 <img alt="MVC Ajax WebGrid with Administrator Buttons" border="0" height="640" src="http://4.bp.blogspot.com/-PHYK6kb8q18/ViygkY5Z9nI/AAAAAAAALrM/76aNR3lkHL8/s640/1.png" width="402" />
 
 
