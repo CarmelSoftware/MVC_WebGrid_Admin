@@ -34,7 +34,7 @@ body {
 }
 
 .webgrid-footerStyle, .webgrid-footerStyle a {
-    background-color: #c67f1c;
+    background:#c67f1c url("images/ui-bg_fine-grain_10_eceadf_60x60.png") 50% 50% repeat;
     color: #FFF;
     font: 900 14px Verdana;
     padding: 3px 3px 3px 3px;
@@ -42,7 +42,7 @@ body {
 }
 
 .webgrid-alternatingRowStyle {
-    background-color: #eceadf;
+    background: #f8f7f6 url("images/ui-bg_fine-grain_10_f8f7f6_60x60.png") 50% 50% repeat;
     padding: 5px 5px 5px 5px;
 }
 
