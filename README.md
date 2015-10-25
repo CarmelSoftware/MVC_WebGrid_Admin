@@ -19,7 +19,7 @@ http://themvcclub.blogspot.com/2015/10/mvc-ajax-webgrid-with-administrator-butto
 <img border="0" src="http://3.bp.blogspot.com/-P1lwC5QUQZ0/ViyasBFshtI/AAAAAAAALqs/tMsyGvNir00/s1600/ui-bg_fine-grain_10_f8f7f6_60x60.png" />
 <img border="0" src="http://1.bp.blogspot.com/-qwRZWI4MC4U/ViyasIbWtII/AAAAAAAALqo/rEwdfYXH_-o/s1600/ui-bg_fine-grain_10_eceadf_60x60.png" />
 
- 
+ The following are snapshots of the WebGrid, in the case of an Administrator, and in case of a regular User :
 
 <a href="http://themvcclub.blogspot.com/2015/10/mvc-ajax-webgrid-with-administrator-buttons.html" imageanchor="1" target="_self" style="margin-left: 1em; margin-right: 1em;">
 
