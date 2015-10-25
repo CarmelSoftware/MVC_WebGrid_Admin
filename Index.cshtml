@@ -1,0 +1,41 @@
+@model IEnumerable<ERASE_BL.Blog>
+
+@{
+    ViewBag.Title = "Index";
+    WebGrid grid = new WebGrid(Model, new[] { "Title", "Text", "DatePosted", "MainPicture", "Blogger" },
+        rowsPerPage:2,ajaxUpdateContainerId:"GridDiv");
+
+    IEnumerable<WebGridColumn> oColumns = new[] {
+
+        grid.Column("ID",format:(item) =>  item.GetSelectLink(item.BlogID.ToString()) ) ,
+        grid.Column("Title",format:@<a href='/Blog/Details/@item.BlogID'><b>@item.Title</b></a>),
+        grid.Column("DatePosted","DatePosted", (item) => String.Format("{0:dd/MM/yyyy}", item.DatePosted != null ? item.DatePosted : DateTime.Now )),
+        grid.Column("Picture",format:(item) =>
+        { return new MvcHtmlString("<a href='/Blog/Details/" + item.BlogID +
+            "'><img src='/Images/"+item.MainPicture+"' style='width:100px;height:100px;'></img></a>");
+        })
+    };
+
+    if (User.IsInRole("Admin"))
+    {
+        oColumns = oColumns.Concat(new[] {grid.Column(
+            format:@<div class="ActionsTH">
+            @Html.ActionLink("Edit", "Edit", new { id=item.BlogID })
+            @Html.ActionLink("Details", "Details", new { id=item.BlogID })
+            @Html.ActionLink("Delete", "Delete", new { id=item.BlogID })
+        </div>) });
+    }
+    
+}
+
+<h2>Index</h2>
+
+<div id="GridDiv">
+    @grid.GetHtml(tableStyle:"webgrid-tableStyle",headerStyle:"webgrid-headerStyle",footerStyle:"webgrid-footerStyle",alternatingRowStyle:"webgrid-alternatingRowStyle",columns: oColumns) </div>
+<p>
+     
+    <input type="button"   value="Create New" onclick="javascript:location='/Blog/Create'" class="btn btn-default"/>
+</p>
+
+
+
