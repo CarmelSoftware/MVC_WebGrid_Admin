@@ -5,10 +5,9 @@ Building Block: An MVC WebGrid which checks for Administrator role to display Ed
 
 ### By Carmel Shvartzman
 ### For  <a href="http://themvcclub.blogspot.com/"   target="_new"  >The MVC Club</a>
-This is the companion code for the following Tutorials:
+This is the companion code for the following Tutorial:
 
-http://themvcclub.blogspot.co.il/2014/03/step-by-step-how-to-create-ajax-webgrid.html
-http://themvcclub.blogspot.com/2015/08/mvc-ajax-webgrid-with-sorting-and-paging.html
+http://themvcclub.blogspot.com/2015/10/mvc-ajax-webgrid-with-administrator-buttons.html
 
 1) This repository includes only the code for the WebGrid as seen in the pictures below, and the CSS style.
 
@@ -19,19 +18,20 @@ http://themvcclub.blogspot.com/2015/08/mvc-ajax-webgrid-with-sorting-and-paging.
 <img border="0" src="http://3.bp.blogspot.com/-P1lwC5QUQZ0/ViyasBFshtI/AAAAAAAALqs/tMsyGvNir00/s1600/ui-bg_fine-grain_10_f8f7f6_60x60.png" />
 <img border="0" src="http://1.bp.blogspot.com/-qwRZWI4MC4U/ViyasIbWtII/AAAAAAAALqo/rEwdfYXH_-o/s1600/ui-bg_fine-grain_10_eceadf_60x60.png" />
 
-Not all of the theme files are necessary for the project. See the list of required files in <a href="http://themvcclub.blogspot.com/2015/08/mvc-ajax-webgrid-with-sorting-and-paging.html" imageanchor="1" target="_self" style="margin-left: 1em; margin-right: 1em;">this</a> post.
+ 
 
-<a href="http://themvcclub.blogspot.com/2015/08/mvc-ajax-webgrid-with-sorting-and-paging.html" imageanchor="1" target="_self" style="margin-left: 1em; margin-right: 1em;">
-
-
-
-<img alt="MVC Ajax WebGrid with Sorting and Paging4" border="0" height="386" src="http://4.bp.blogspot.com/-tuib7pbrTys/VdwYrIE3yYI/AAAAAAAALoI/vpulkph30qE/s640/3.png" width="540" />
+<a href="http://themvcclub.blogspot.com/2015/10/mvc-ajax-webgrid-with-administrator-buttons.html" imageanchor="1" target="_self" style="margin-left: 1em; margin-right: 1em;">
 
 
-<img alt="MVC Ajax WebGrid with Sorting and Paging5" border="0" height="490" src="http://4.bp.blogspot.com/-iTisLpt_3Ys/VdwYrO4vGoI/AAAAAAAALoU/0ZyJk_S9wHc/s640/1.png" width="540" />
 
+<img alt="MVC Ajax WebGrid with Administrator Buttons" border="0" height="448" src="http://2.bp.blogspot.com/-wV03d-u_NMs/ViygkoaPYGI/AAAAAAAALrE/c2ft825d86M/s640/3.png" width="540" />
 
-<img alt="MVC Ajax WebGrid with Sorting and Paging6" border="0" height="640" src="http://1.bp.blogspot.com/-IoCtFnTVCwk/VdwYrYlXblI/AAAAAAAALoA/vM0v4FJ1lyE/s640/2.png" width="450" />
+<img alt="MVC Ajax WebGrid with Administrator Buttons" border="0" height="384" src="http://1.bp.blogspot.com/-O-jNqru-gsk/ViyglDjwyiI/AAAAAAAALrI/0qMgZ-FW6q0/s640/4.png" width="540" />
+
+<img alt="MVC Ajax WebGrid with Administrator Buttons" border="0" height="640" src="http://3.bp.blogspot.com/-ThXe8rYxVdI/ViyhAa-cn-I/AAAAAAAALrc/3YMLeLt9pxU/s640/2.png" width="398" />
+
+<img alt="MVC Ajax WebGrid with Administrator Buttons" border="0" height="640" src="http://4.bp.blogspot.com/-PHYK6kb8q18/ViygkY5Z9nI/AAAAAAAALrM/76aNR3lkHL8/s640/1.png" width="402" />
+
 
 
 
