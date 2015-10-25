@@ -9,11 +9,12 @@ This is the companion code for the following Tutorial:
 
 http://themvcclub.blogspot.com/2015/10/mvc-ajax-webgrid-with-administrator-buttons.html
 
-1) This repository includes only the code for the WebGrid as seen in the pictures below, and the CSS style.
+1) This repository includes only the code for the WebGrid as seen in the pictures below, 
+      the code for asigning Administrator Role to selected Users, and also the CSS style.
 
 2) This code only adds this beautiful Ajax WebGrid to your existing MVC project, replacing the Table in the "Index" View.
 
-3) The style uses a background from the jQueryUI Theme "Pepper Grinder" :  <a href="http://jqueryui.com/themeroller/"   target="_self"  >jQueryUI</a>
+3) The style uses a background from the jQueryUI Theme "Pepper Grinder" :  <a href="http://jqueryui.com/themeroller/"   target="_self"  >jQueryUI</a> , for example :
 
 <img border="0" src="http://3.bp.blogspot.com/-P1lwC5QUQZ0/ViyasBFshtI/AAAAAAAALqs/tMsyGvNir00/s1600/ui-bg_fine-grain_10_f8f7f6_60x60.png" />
 <img border="0" src="http://1.bp.blogspot.com/-qwRZWI4MC4U/ViyasIbWtII/AAAAAAAALqo/rEwdfYXH_-o/s1600/ui-bg_fine-grain_10_eceadf_60x60.png" />
