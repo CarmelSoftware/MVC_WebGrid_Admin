@@ -17,7 +17,7 @@
                     }
                     WebSecurity.CreateUserAndAccount(model.UserName, model.Password);
 
-//  GET THE ADMINISTRATORS:
+//  GET THE ADMINISTRATORS LIST FROM WEB.CONFIG:
                     string sAdmins = ConfigurationManager.AppSettings["Admins"];
                     string[] oAdmins = sAdmins.Split(';');
 
